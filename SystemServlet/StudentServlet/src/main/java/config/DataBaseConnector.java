@@ -7,7 +7,7 @@ import java.sql.SQLException;
 public class DataBaseConnector {
     private final String URL = "jdbc:mysql://localhost:3306/grading_system";
     private final String USERNAME = "root";
-    private final String PASSWORD = "1234!";
+    private final String PASSWORD = "msmdNOVIC2792001!";
     private static DataBaseConnector connection;
 
     private DataBaseConnector(){}
